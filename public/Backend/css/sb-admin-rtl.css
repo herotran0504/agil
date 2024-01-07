@@ -1,0 +1,79 @@
+body {
+    text-align: right;
+}
+
+caption {
+    text-align: right;
+}
+
+.dropdown-menu {
+    float: right;
+    text-align: right;
+}
+.tooltip {
+    text-align: right;
+}
+
+.popover {
+    text-align: right;
+}
+
+.carousel-item {
+    float: right;
+}
+
+.sidebar .nav-item .nav-link {
+    text-align: right;
+}
+
+.sidebar .sidebar-heading {
+    text-align: right;
+}
+
+.navbar-nav {
+    padding-left: none;
+    padding-right: 0;
+}
+
+.sidebar #sidebarToggle::after {
+    content: '\f105';
+}
+.sidebar.toggled #sidebarToggle::after {
+    content: '\f104';
+}
+
+.mr-1,
+.mx-1 {
+  margin-right: 0rem !important;
+  margin-left: 0.25rem !important;
+}
+
+.ml-4,
+.mx-4 {
+  margin-left: 0rem !important;
+  margin-right: 1.5rem !important;
+}
+
+.navbar-linked i {
+    padding-right: 0px;
+    padding-left: 3px;
+}
+
+.offset-lg-1 {
+    margin-left: 0;
+    margin-right: 8.33333%;
+}
+.offset-1 {
+    margin-left: 0;
+    margin-right: 8.33333%;
+}
+
+.nav {
+    padding-left: none;
+    padding-right: 0;
+  }
+
+.change-admin {
+    border-left: 1px dashed #a8aab3;
+    padding-left: 15px !important;
+}
